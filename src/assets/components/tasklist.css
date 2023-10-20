@@ -1,0 +1,9 @@
+.list-container {
+    padding: 1em;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+}
